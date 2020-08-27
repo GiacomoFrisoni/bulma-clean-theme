@@ -8,5 +8,5 @@ items:
     icon: fa-tools
   - title: Contributions
     subtitle: Sharing of personal research contributions
-    icon: fa-brain
+    icon: fa-search
     icon_brand: true
