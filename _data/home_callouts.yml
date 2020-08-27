@@ -4,7 +4,7 @@ items:
     subtitle: Sharing of papers, blog posts and comments on them
     icon: fa-bookmark
   - title: Tools and datasets
-    subtitle: Sharing of useful resources (e.g., frameworks, libraries) on the implementation side
+    subtitle: Sharing of useful resources on the implementation side
     icon: fa-tools
   - title: Contributions
     subtitle: Sharing of personal research contributions
