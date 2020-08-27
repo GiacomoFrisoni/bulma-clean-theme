@@ -8,5 +8,5 @@ items:
     icon: fa-tools
   - title: Contributions
     subtitle: Sharing of personal research contributions
-    icon: fa-graduation-cap
+    icon: fa-microscope
     icon_brand: true
