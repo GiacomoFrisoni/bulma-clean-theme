@@ -1,6 +1,6 @@
 ---
-title: DISI Research Group
-subtitle: Collaboration Page on Natural Language Understanding and Knowledge Representation
+title: DISI Research Group<br/>Natural Language Understanding and Knowledge Representation
+subtitle: Collaboration Page
 layout: page
 callouts: home_callouts
 show_sidebar: true
