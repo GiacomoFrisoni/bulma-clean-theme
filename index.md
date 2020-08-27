@@ -1,6 +1,6 @@
 ---
-title: Bulma Clean Theme
-subtitle: This is the demo site for Bulma Clean Theme
+title: DISI Research Group on Natural Language Understanding and Knowledge Representation
+subtitle: Collaboration Page
 layout: page
 callouts: home_callouts
 show_sidebar: true
