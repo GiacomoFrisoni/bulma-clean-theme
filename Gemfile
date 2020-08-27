@@ -10,5 +10,5 @@ group :jekyll_plugins do
     gem "jekyll-sitemap"
     gem "jekyll-paginate"
     gem "jekyll-seo-tag"
-    gem 'jekyll-auth', :git => 'https://github.com/apcj/jekyll-auth.git'
+    gem 'jekyll-auth', , "~> 0.6"
 end
