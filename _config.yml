@@ -6,7 +6,7 @@ description: >
   Collaboration Page
 #baseurl: "/bulma-clean-theme"
 #url: "https://www.csrhymes.com"
-#permalink: pretty
+permalink: pretty
 #favicon: /path/to/favicon.png
 #gh_sponsor: chrisrhymes
 #hide_share_buttons: true
