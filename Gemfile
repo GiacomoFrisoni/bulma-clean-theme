@@ -3,13 +3,13 @@
 source "https://rubygems.org"
 gemspec
 
-gem "bulma-clean-theme"
+#gem "bulma-clean-theme"
 
 group :jekyll_plugins do
     gem "jekyll-feed", "~> 0.6"
     gem "jekyll-sitemap"
     gem "jekyll-paginate"
     gem "jekyll-seo-tag"
-    gem 'jekyll-auth'
+    gem "jekyll-auth"
 end
 
