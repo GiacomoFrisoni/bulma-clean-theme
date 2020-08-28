@@ -77,8 +77,3 @@ collections:
     layout: product
     image: https://via.placeholder.com/800x600
     show_sidebar: false
-
-jekyll_auth:
-  whitelist:
-  #Any path defined in the whitelist won't require authentication on the site.
-    - drafts?
